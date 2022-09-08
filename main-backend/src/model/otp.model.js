@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-const conn = require("../config/db");
 
 const otpSchema = new mongoose.Schema(
   {
